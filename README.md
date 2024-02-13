@@ -7,7 +7,12 @@ To Read:
 - https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
 - https://aosabook.org/en/index.html#aosa2 The Architecture of Open Source Applications
 - https://clig.dev/ Command Line Interface Guidelines
-
+- https://medium.com/ambient-innovation/implementing-a-lasting-service-pattern-for-your-business-logic-96d6aaf7bdf4 
+- https://semaphoreci.com/blog/open-source-licensing Descriobe open souce licenses
+- https://martinheinz.dev/blog/105 PostgreSQL as a Cache
+- https://martinheinz.dev/blog/98 Shell in Python
+- https://martinheinz.dev/blog/93 Reduce in Python
+- 
 Blogs:
 - https://death.andgravity.com/
 
