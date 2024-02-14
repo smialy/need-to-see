@@ -12,6 +12,7 @@ To Read:
 - https://martinheinz.dev/blog/105 PostgreSQL as a Cache
 - https://martinheinz.dev/blog/98 Shell in Python
 - https://martinheinz.dev/blog/93 Reduce in Python
+- https://realpython.com/python-for-data-analysis/ Simple Data Analysis in Python
 - 
 Blogs:
 - https://death.andgravity.com/
