@@ -13,7 +13,8 @@ To Read:
 - https://martinheinz.dev/blog/98 Shell in Python
 - https://martinheinz.dev/blog/93 Reduce in Python
 - https://realpython.com/python-for-data-analysis/ Simple Data Analysis in Python
-- 
+- https://www.nicholashairs.com/posts/major-changes-between-python-versions/ Major Changes between python versions 
+
 Blogs:
 - https://death.andgravity.com/
 
